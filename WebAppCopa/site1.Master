@@ -1,0 +1,13 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="site1.aspx.cs" Inherits="WebAppCopa.site1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+</asp:Content>
+
+<html xmlns="http://www.w3.org/199/xhtml">
+    <head>runat="server"> 
+
+
+    </head>
+
+
+
+</html>
